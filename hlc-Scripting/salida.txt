@@ -1,0 +1,15 @@
+fic
+fic.866866866.log
+fic866866.log
+fic866868
+fic866.log
+fic867.log
+fic868.log
+fic.log
+holamundo.sh
+plantilla.sh
+README.md
+salida.txt
+script2.sh
+script3.sh
+jue 05 oct 2023 09:32:20 CEST
